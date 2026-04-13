@@ -1,7 +1,7 @@
 ---
-title: La Palma Earthquakes
+title: Metalicrab
 author:
-  - name: Steve Purves
+  - name: Sophie Lord
     orcid: 0000-0002-0760-5497
     corresponding: true
     email: steve@curvenote.com
@@ -12,15 +12,25 @@ author:
       - Visualization
     affiliations:
       - Curvenote
-  - name: Rowan Cockett
+  - name: Julia Ashton
     orcid: 0000-0002-7859-8394
     corresponding: false
     roles: []
     affiliations:
       - Curvenote
+  - name: Eliza Street
+    orcid:
+    corresponding: false
+    roles: []
+    affiliations: []
+  - name: Maria Lopez
+    orcid:
+    corresponding: []
+    affiliations
 keywords:
-  - La Palma
-  - Earthquakes
+  - heavy metals
+  - H. oregonensis
+  - European green crabs
 abstract: |
   In September 2021, a significant jump in seismic activity on the island of La Palma (Canary Islands, Spain) signaled the start of a volcanic crisis that still continues at the time of writing. Earthquake data is continually collected and published by the Instituto Geográphico Nacional (IGN). ...
 plain-language-summary: |
