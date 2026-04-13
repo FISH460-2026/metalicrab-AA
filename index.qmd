@@ -15,18 +15,18 @@ author:
   - name: Julia Ashton
     orcid: 0000-0002-7859-8394
     corresponding: false
-    roles: []
+    roles: 
     affiliations:
       - Curvenote
   - name: Eliza Street
     orcid:
     corresponding: false
-    roles: []
-    affiliations: []
+    roles: 
+    affiliations: 
   - name: Maria Lopez
     orcid:
-    corresponding: []
-    affiliations
+    corresponding:
+    affiliations:
 keywords:
   - heavy metals
   - H. oregonensis
